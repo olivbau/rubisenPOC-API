@@ -1,0 +1,19 @@
+*.py[cod]
+.vscode
+
+# Database
+app.db
+*.pkl
+models/*
+# Env file
+.env
+
+# Python venv files
+.venv/
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+share/
+venv/
